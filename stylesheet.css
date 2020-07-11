@@ -1,0 +1,44 @@
+.header-logo {
+  background-color: #696969;
+  color: #FFFAFA;
+ font-family: SimSun;
+ font-size: 85px;
+ padding: 30px;
+ text-align: center;
+}
+ul {
+  text-align: center;
+  padding: 50px;
+}
+li {
+  list-style: none;
+  display: inline;
+  padding: 40px;
+  font-size: 25px;
+   font-family: Comic serif;
+ }
+ span1 {
+   color: #FFE4E1;
+   font-family: Lucida Homemade Apple;
+   font-size: 110px;
+ }
+ span2 {
+ color: #FFF0F5;
+ font-family: Lucida Homemade Apple;
+ font-size: 80px;
+ }
+ .image {
+  text-align: center;
+  }
+ h2 {
+  font-size: 20px;
+  text-align: center;
+ }
+ p {
+    font-family: "Yu Mincho";
+    color: #2F4F4F;
+    margin: 30px;
+   font-size: 25px;
+   text-align: center;
+   padding: 10px;
+ }
